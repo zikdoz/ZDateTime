@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZDateTime", "ZDateTime\ZDateTime.csproj", "{ACB2778A-3B9F-45F0-A85A-CF3F2FAC1B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB2778A-3B9F-45F0-A85A-CF3F2FAC1B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB2778A-3B9F-45F0-A85A-CF3F2FAC1B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB2778A-3B9F-45F0-A85A-CF3F2FAC1B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB2778A-3B9F-45F0-A85A-CF3F2FAC1B15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10E6975C-335B-415E-BFB0-FE891FF71EE2}
+	EndGlobalSection
+EndGlobal
