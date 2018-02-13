@@ -115,5 +115,8 @@ namespace ZDateTime
 
 		public override string ToString() =>
 			$"{_encoded_date} {_encoded_time}";
+
+		public static implicit operator string( ZData data ) =>
+			data.ToString();
 	}
 }
